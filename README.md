@@ -25,7 +25,7 @@
 ---
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=xiarikuzai&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="zhiliang's github stats" width="48%" align="right" >
+<img src="https://github-readme-stats.vercel.app/api?username=xiarikuzai&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=true" alt="zhiliang's github stats" width="48%" align="right" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xiarikuzai&theme=tokyonight&hide_border=true" alt="rakesh's github streak" width="48%" >
 
 ---
